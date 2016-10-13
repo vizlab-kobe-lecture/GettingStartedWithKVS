@@ -1,1 +1,1 @@
-# GettingStartedWithKVS
+# Getting started with KVS
