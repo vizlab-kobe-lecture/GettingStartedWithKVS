@@ -1,8 +1,7 @@
 # Getting started with KVS
 プロジェクト演習（データの可視化）では、可視化ライブラリKVSを使って可視化プログラムを開発します。ここでは、演習用コンピュータにKVSを導入する方法と、簡単な使い方を説明します。KVSは以下のリポジトリで公開されています。
 
-* KVS
-https://github.com/naohisas/KVS/
+* https://github.com/naohisas/KVS/
 
 ## KVSの取得
 gitコマンドを使って、以下の手順でKVSをローカルPC環境にコピー（クローン）してください。ここでは、ホームディレクトリ直下に作成した「Project」という名前のディレクトリにコピーを作成することを想定して説明します。
@@ -124,3 +123,8 @@ $ kvsmake
 ```
 $ ./SimpleTriangle
 ```
+
+## その他の情報
+KVSについては、以下のページにも説明があるので参考にしてください。
+
+* https://github.com/naohisas/KVS/wiki/Getting%20Started%20with%20KVS
