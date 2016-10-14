@@ -20,7 +20,7 @@ $ cd ~
 $ mkdir local
 ```
 
-次に、環境変数KVS_PATHとPATHを設定します。環境変数KVS_PATHには、KVSのインストールターゲットとなるディレクトリを指定します。ここでは、上で作成した「~/local/kvs」を指定します。さらに、KVS用コンパイルコマンド（kvsmake）や簡易可視化コマンド（kvsview）などのいくつかKVSコマンドを使うために、環境変数PATHに「$KVS_DIR/bin」を追加します。シェルにBashを使っている場合は、「~/.bash_profile」または「~/.bashrc」に以下の設定を追加してください。
+次に、環境変数KVS_PATHとPATHを設定します。環境変数KVS_PATHには、KVSのインストールターゲットとなるディレクトリを指定します。ここでは、上で作成した「~/local/kvs」を指定します。さらに、KVS用コンパイルコマンド（kvsmake）や簡易可視化コマンド（kvsview）などのいくつかKVSコマンドを使うために、環境変数PATHに「$KVS_DIR/bin」を追加します。シェルにBashを使っている場合は、「~/.bash_profile」または「~/.bashrc」に以下の設定を追加してください。もし、これらのファイルがない場合は、「~/.bash_profile」を作成し、以下を追記してください。
 
 ```
 export KVS_DIR=~/local/kvs
