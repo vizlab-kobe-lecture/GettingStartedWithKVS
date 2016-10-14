@@ -25,6 +25,7 @@ $ mkdir local
 ```
 export KVS_DIR=~/local/kvs
 export PATH=$KVS_DIR/bin:$PATH
+export KVS_GLEW_DIR=/opt/local
 ```
 
 環境変数の追記ができれば、以下のコマンドを実行し、現在開いているあターミナル上でそれらを有効にしてください。次回ターミナルを開くときには、この操作は必要ありません。
