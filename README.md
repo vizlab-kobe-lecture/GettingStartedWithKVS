@@ -126,12 +126,11 @@ $ kvsmake
 $ ./SimpleTriangle
 ```
 
-## チュートリアル
-KVSを使った可視化プログラミングについては、以下のWikiページで説明をしています。
+## その他の情報
+KVSを使った可視化プログラミングについては、以下のWikiページにまとめています。
 
 * https://github.com/vizlab-kobe-lecture/GettingStartedWithKVS/wiki
 
-## その他の情報
 KVSについては、以下のページにも説明があるので参考にしてください。
 
 * https://github.com/naohisas/KVS/wiki/Getting%20Started%20with%20KVS
