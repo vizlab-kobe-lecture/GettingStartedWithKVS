@@ -128,5 +128,5 @@ $ ./SimpleTriangle
 
 ## その他の情報
 1. [KVSプログラミング](https://github.com/vizlab-kobe-lecture/GettingStartedWithKVS/wiki)
-1. [入門KVS](https://github.com/naohisas/KVS/wiki/Getting%20Started%20with%20KVS)
+1. [入門KVS](https://github.com/naohisas/KVS/wiki/GettingStartedWithKVS)
 1. [KVS: A simple and effective framework for scientific visualization](https://www.jstage.jst.go.jp/article/jasse/2/1/2_76/_article)
